@@ -51,7 +51,7 @@ Training of the model was done using Adam optimizer with learning rate 1.e-4.
 
 The model is trained for 3 (3500 steps on each) epochs.
 
-After 5 epochs we get Dice Score - 0.602.
+After 3 epochs we get Dice Score - 0.602.
 #### Links:
 
 https://www.kaggle.com/mpware/stage1-eda-microscope-image-types-clustering
